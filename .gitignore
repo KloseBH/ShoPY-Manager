@@ -1,0 +1,27 @@
+# Arquivos de Bytecode e Compilados do Python
+*.pyc
+__pycache__/
+
+# Ambiente Virtual
+venv/
+env/
+.env
+
+# Banco de Dados
+db.sqlite3
+*.sqlite3
+
+# Arquivos de Configuração de IDEs
+.idea/
+.vscode/
+
+# Arquivos de Log
+*.log
+
+# Arquivos de Mídia e Estáticos coletados
+/static/
+/media/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
